@@ -21,10 +21,17 @@ o lenguajes manejo, sigue bajando.
 </table>
 
 
-<h3 align="left">Mis Redes : </h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/189253" target="blank"><img align="center" src="" alt="189253" height="30" width="40" /></a>
-<a href="https://fb.com/eljuandi.mejiamaestre" target="blank"><img align="center" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/facebook.png" height="30" width="40" /></a>
-<a href="https://instagram.com/eljuandi36_" target="blank"><img align="center" src="" alt="eljuandi36_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/código limpio" target="blank"><img align="center" src="" alt="código limpio" height="30" width="40" /></a>
-</p>
+# Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+
+  <a href="https://twitter.com/SatYug26">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/eljuandi36_/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:mejiamaestrejuandiego@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
