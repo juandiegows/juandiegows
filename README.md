@@ -1,6 +1,6 @@
-# I'm Juan Diego <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# I'm Juan Diego
 
-### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Earth.gif" width="24px">
 
 ### Hi there 👋 I'm Juan Diego
 
