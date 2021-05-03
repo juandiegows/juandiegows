@@ -9,7 +9,7 @@ o lenguaje manejo, sigue bajando.
 <h3 align="left">Mis Redes : </h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/189253" target="blank"><img align="center" src="" alt="189253" height="30" width="40" /></a>
-<a href="https://fb.com/eljuandi.mejiamaestre" target="blank"><img align="center" src="" height="30" width="40" /></a>
+<a href="https://fb.com/eljuandi.mejiamaestre" target="blank"><img align="center" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/facebook.png" height="30" width="40" /></a>
 <a href="https://instagram.com/eljuandi36_" target="blank"><img align="center" src="" alt="eljuandi36_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/código limpio" target="blank"><img align="center" src="" alt="código limpio" height="30" width="40" /></a>
 </p>
