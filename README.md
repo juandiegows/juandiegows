@@ -2,7 +2,6 @@
 
 ### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Earth.gif" width="24px">
 
-### Hi there 👋 I'm Juan Diego
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
