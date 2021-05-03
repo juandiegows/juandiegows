@@ -1,6 +1,6 @@
-# Yo soy Juan Diego
+# I'm Juan Diego
 
-### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Hi.gif" width="29px"> ¡Hola Mundo!&nbsp;<img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Earth.gif" width="24px">
+### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Earth.gif" width="24px">
 
 Soy apasionado a la programación, manejo programación de escritorio, web y móvil, si quieres conocer que herramientas 
 o lenguajes manejo, sigue bajando.
