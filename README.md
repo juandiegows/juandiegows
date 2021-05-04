@@ -65,4 +65,8 @@ I think the important thing about programming is to learn the basics, if you kno
  <a href="https://stackoverflow.com/users/189253">
     <img align="left" alt="Juan Diego | Stack Overflow" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/stack.svg" />
   </a> &nbsp;&nbsp;
+  
+   <a href="https://www.facebook.com/eljuandi.mejiamaestre/">
+    <img align="left" alt="Juan Diego | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/facebook.svg" />
+  </a> &nbsp;&nbsp;
 
