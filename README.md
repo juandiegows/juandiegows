@@ -1,7 +1,7 @@
 # I'm Juan Diego
 
-### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Hi.gif" width="29px"> Hello World!&nbsp;
-<img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Earth.gif" width="24px">
+### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Hi.gif" width="29px"> Hello World!&nbsp;
+<img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Earth.gif" width="24px">
 
 I am passionate about programming, I handle desktop, web and mobile programming, if you want to know what tools or languages I handle, 
 keep scrolling down. I am currently working to grow my You Tube channel Clean Code, where I teach everything I learned during my Technologist at SENA, 
