@@ -52,15 +52,15 @@ I think the important thing about programming is to learn the basics, if you kno
 
 
   <a href="https://twitter.com/_JuanDiego36">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Twitter.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/eljuandi36_/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="mailto:mejiamaestrejuandiego@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Gmail.svg" />
   </a>
 
 
