@@ -48,7 +48,7 @@ I think the important thing about programming is to learn the basics, if you kno
 </table>
 
 
-# Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px">
 
 
   <a href="https://twitter.com/SatYug26">
