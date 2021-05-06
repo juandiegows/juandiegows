@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Hi.gif" width="29px"> ¡Hola Mundo!&nbsp; <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Earth.gif" width="24px">
 
-Soy un apasionado de la programación, manejo programación de escritorio, web y móvil, si quieres saber que herramientas o lenguajes manejo, sigue desplazándote hacia abajo. Actualmente estoy trabajando para hacer crecer mi canal de You Tube [**Código Limpio**](https://www.youtube.com/channel/UCBruvsN18FvqNHSHe7E6WWg), donde enseño todo lo que aprendí durante mi Tecnólogo en el SENA, creo que lo importante de la programación es aprender lo básico, si sabes eso puedes programar en cualquier lenguaje.
+Soy un apasionado de la programación, manejo programación de escritorio, web y móvil, si quieres saber que herramientas o lenguajes manejo, sigue desplazándote hacia abajo. Actualmente estoy trabajando para hacer crecer mi canal de You Tube [**Código Limpio**](https://www.youtube.com/channel/UCBruvsN18FvqNHSHe7E6WWg), donde enseño todo lo que aprendí durante mi Tecnólogo en el [**SENA**](https://www.sena.edu.co/es-co/Paginas/default.aspx), creo que lo importante de la programación es aprender lo básico, si sabes eso puedes programar en cualquier lenguaje.
 
 Entre otros conocimientos están las bases de datos, pero no voy a hablar de eso, puedes ver que herramientas uso si sigues desplazándote hacia abajo, me considero una persona curiosa del conocimiento que con su disciplina sabe invertir el tiempo, y hacerlo productivo. Mis aficiones son el ajedrez, juego online, soy de esos amigos que si me invitan a jugar al fútbol acepto encantado, me encanta la música electrónica, es el género que más escucho.
 
