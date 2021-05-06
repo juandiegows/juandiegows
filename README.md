@@ -1,6 +1,6 @@
 # Yo soy Juan Diego
 
-### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Hi.gif" width="29px"> ¿Hola Mundo!&nbsp; <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Earth.gif" width="24px">
+### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Hi.gif" width="29px"> ¡Hola Mundo!&nbsp; <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Earth.gif" width="24px">
 
 Soy un apasionado de la programación, manejo programación de escritorio, web y móvil, si quieres saber que herramientas o lenguajes manejo, sigue desplazándote hacia abajo. Actualmente estoy trabajando para hacer crecer mi canal de You Tube Clean Code, donde enseño todo lo que aprendí durante mi Tecnólogo en el SENA, creo que lo importante de la programación es aprender lo básico, si sabes eso puedes programar en cualquier lenguaje.
 
