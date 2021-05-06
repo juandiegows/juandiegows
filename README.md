@@ -6,6 +6,7 @@ Soy un apasionado de la programación, manejo programación de escritorio, web y
 
 Entre otros conocimientos están las bases de datos, pero no voy a hablar de eso, puedes ver que herramientas uso si sigues desplazándote hacia abajo, me considero una persona curiosa del conocimiento que con su disciplina sabe invertir el tiempo, y hacerlo productivo. Mis aficiones son el ajedrez, juego online, soy de esos amigos que si me invitan a jugar al fútbol acepto encantado, me encanta la música electrónica, es el género que más escucho.
 
+Darle clic en el iconos del lenguaje y mira algunos de los proyectos que he hecho en ese lenguaje o herramienta.
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
