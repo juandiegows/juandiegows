@@ -43,7 +43,7 @@ Entre otros conocimientos están las bases de datos, pero no voy a hablar de eso
 </table>
 
 
-# Connect with me <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px">
+# Mis redes <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px">
 
 
   <a href="https://twitter.com/_JuanDiego36">
