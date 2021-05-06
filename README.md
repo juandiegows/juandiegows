@@ -2,14 +2,9 @@
 
 ### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Hi.gif" width="29px"> Hello World!&nbsp; <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Earth.gif" width="24px">
 
-I am passionate about programming, I handle desktop, web and mobile programming, if you want to know what tools or languages I handle, 
-keep scrolling down. I am currently working to grow my You Tube channel Clean Code, where I teach everything I learned during my Technologist at SENA, 
-I think the important thing about programming is to learn the basics, if you know that you can program in any language.
+Soy un apasionado de la programación, manejo programación de escritorio, web y móvil, si quieres saber que herramientas o lenguajes manejo, sigue desplazándote hacia abajo. Actualmente estoy trabajando para hacer crecer mi canal de You Tube Clean Code, donde enseño todo lo que aprendí durante mi Tecnólogo en el SENA, creo que lo importante de la programación es aprender lo básico, si sabes eso puedes programar en cualquier lenguaje.
 
- Among other knowledge are the databases, but I'm not going to talk about that, you can see what tools I use if you keep scrolling down, 
- I consider myself a curious person of knowledge that with his discipline knows how to invest time, and make it productive. My hobbies are chess, 
- I play online, I am one of those friends that if they invite me to play soccer I will gladly accept, 
- I love electronic music, it is the genre I listen to the most.
+Entre otros conocimientos están las bases de datos, pero no voy a hablar de eso, puedes ver que herramientas uso si sigues desplazándote hacia abajo, me considero una persona curiosa del conocimiento que con su disciplina sabe invertir el tiempo, y hacerlo productivo. Mis aficiones son el ajedrez, juego online, soy de esos amigos que si me invitan a jugar al fútbol acepto encantado, me encanta la música electrónica, es el género que más escucho.
 
 
 <h3 align="left">Languages and Tools:</h3>
