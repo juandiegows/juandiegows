@@ -65,4 +65,6 @@ Darle clic en el icono del lenguaje y mira algunos de los proyectos que he hecho
    <a href="https://www.facebook.com/eljuandi.mejiamaestre/">
     <img align="left" alt="Juan Diego | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/facebook.svg" />
   </a> &nbsp;&nbsp;
-
+ <a href="https://dev.to/juandiego">
+    <img align="left" alt="Juan Diego | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Dev.png" />
+  </a> &nbsp;&nbsp;
