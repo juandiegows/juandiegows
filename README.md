@@ -1,12 +1,7 @@
 # Yo soy Juan Diego
 
-### <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Hi.gif" width="29px"> ¡Hola Mundo!&nbsp; <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Earth.gif" width="24px">
-
-Soy un apasionado de la programación, manejo programación de escritorio, web y móvil, si quieres saber que herramientas o lenguajes manejo, sigue desplazándote hacia abajo. Actualmente estoy trabajando para hacer crecer mi canal de You Tube [**Código Limpio**](https://www.youtube.com/channel/UCBruvsN18FvqNHSHe7E6WWg), donde enseño todo lo que aprendí durante mi Tecnólogo en el [**SENA**](https://www.sena.edu.co/es-co/Paginas/default.aspx), creo que lo importante de la programación es aprender lo básico, si sabes eso puedes programar en cualquier lenguaje.
-
-Entre otros conocimientos están las bases de datos, pero no voy a hablar de eso, puedes ver que herramientas uso si sigues desplazándote hacia abajo, me considero una persona curiosa del conocimiento que con su disciplina sabe invertir el tiempo, y hacerlo productivo. Mis aficiones son el ajedrez, juego online, soy de esos amigos que si me invitan a jugar al fútbol acepto encantado, me encanta la música electrónica, es el género que más escucho.
-
-Darle clic en el icono del lenguaje y mira algunos de los proyectos que he hecho en ese lenguaje o herramienta, tratare de colocar un proyecto por cada elemento que manejo.
+| <img src="https://user-images.githubusercontent.com/65135568/219900687-67624434-64bb-4317-ba00-b1a7bf98a494.png" alt="Foto de perfil" width="5000"/> | Soy Juan Diego, un apasionado desarrollador de software especializado en desarrollo web y móvil. Representé a Colombia en la competencia WorldSkills 2022 y gané una medalla de excelencia gracias a mis habilidades y conocimientos en diferentes lenguajes de programación, diseño de API, SQL y patrones de diseño. Me encanta aprender nuevas herramientas y actualizarme día a día con las últimas novedades en tecnología. Si quieres saber más sobre mi experiencia laboral, echa un vistazo a mi perfil de [LinkedIn](https://www.linkedin.com/in/juandiegows/) o sigue bajando y mira algunos de mis trabajos. |
+|:----------------------:|:-----------------------------------------------:|
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
