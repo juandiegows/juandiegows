@@ -46,7 +46,7 @@
   <a href="mailto:mejiamaestrejuandiego@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Gmail.svg" />
   </a>
- <a href="https://stackoverflow.com/users/189253">
+ <a href="[https://stackoverflow.com/users/189253](https://stackoverflow.com/users/15910110/juandiegows)">
     <img align="left" alt="Juan Diego | Stack Overflow" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/stack.svg" />
   </a> &nbsp;&nbsp;
   
