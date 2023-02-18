@@ -1,7 +1,12 @@
 # Analista y Desarrollador de software
 
-| <img src="https://user-images.githubusercontent.com/65135568/219900687-67624434-64bb-4317-ba00-b1a7bf98a494.png" alt="Foto de perfil" width="5000"/> | Soy Juan Diego, un apasionado desarrollador de software especializado en desarrollo web y móvil. Representé a Colombia en la competencia WorldSkills 2022 y gané una medalla de excelencia gracias a mis habilidades y conocimientos en diferentes lenguajes de programación, diseño de API, SQL y patrones de diseño. Me encanta aprender nuevas herramientas y actualizarme día a día con las últimas novedades en tecnología. Si quieres saber más sobre mi experiencia laboral, echa un vistazo a mi perfil de [LinkedIn](https://www.linkedin.com/in/juandiegows/) o visita mi portafolio [ver aqui](https://juandiegows.com/) |
-|:----------------------:|:-----------------------------------------------:|
+<table border="0" style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td width=25%" style="text-align: center; vertical-align: middle;"><img style="margin = auto;" src="https://user-images.githubusercontent.com/65135568/219900687-67624434-64bb-4317-ba00-b1a7bf98a494.png" alt="Foto de perfil" width="100%"/></td>
+    <td width="70%" style="text-align: justify;">Soy Juan Diego, un apasionado desarrollador de software especializado en desarrollo web y móvil. Representé a Colombia en la competencia WorldSkills 2022 y gané una medalla de excelencia gracias a mis habilidades y conocimientos en diferentes lenguajes de programación, diseño de API, SQL y patrones de diseño. Me encanta aprender nuevas herramientas y actualizarme día a día con las últimas novedades en tecnología. Si quieres saber más sobre mi experiencia laboral, echa un vistazo a mi perfil de <a href="https://www.linkedin.com/in/juandiegows/">LinkedIn</a> o visita mi portafolio <a href="https://juandiegows.com/">juandiegows.com</a>.</td>
+  </tr>
+</table>
+
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
