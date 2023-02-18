@@ -35,11 +35,11 @@
 # Mis redes <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px">
 
 
-  <a href="https://twitter.com/_JuanDiego36">
+  <a href="https://twitter.com/juandiegows">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Twitter.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/eljuandi36_/">
+  <a href="https://www.instagram.com/juandiego.ws/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
@@ -50,9 +50,9 @@
     <img align="left" alt="Juan Diego | Stack Overflow" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/stack.svg" />
   </a> &nbsp;&nbsp;
   
-   <a href="https://www.facebook.com/eljuandi.mejiamaestre/">
+   <a href="https://www.facebook.com/juandiego.wsc/">
     <img align="left" alt="Juan Diego | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/facebook.svg" />
   </a> &nbsp;&nbsp;
- <a href="https://dev.to/juandiego">
+ <a href="https://dev.to/juandiegows">
     <img align="left" alt="Juan Diego | Facebook" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Dev2.png" />
   </a> &nbsp;&nbsp;
