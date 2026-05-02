@@ -10,7 +10,6 @@
 Desarrollador Full Stack con más de 3 años de experiencia transformando ideas en soluciones digitales. Mi enfoque combina la precisión técnica con metodologías ágiles para entregar software de alta calidad.
 
 - 🔭 **Actualmente:** Desarrollador Full Stack en **Fisla S.A**, especializándome en ecosistemas .NET y arquitecturas modernas.
-- 🏗️ **Proyectos Personales:** Desarrollando **Quantico**, una app de finanzas construida con **NestJS**, **MySQL** y **Clean Architecture**.
 - 🎓 **Formación:** Estudiante de Ingeniería de Sistemas y Tecnólogo en ADSI.
 - 💡 **Especialidades:** Clean/Hexagonal Architecture, Optimización de LLMs locales y Desarrollo Mobile.
 - 🌎 **Logro Global:** Medalla de Excelencia en **WorldSkills Special Edition (Corea del Sur)**.
