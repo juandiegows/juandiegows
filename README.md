@@ -58,7 +58,7 @@ Desarrollador Full Stack con más de 3 años de experiencia transformando ideas 
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDiegogit&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDiegows&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
